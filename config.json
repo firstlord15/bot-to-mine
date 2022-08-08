@@ -1,7 +1,7 @@
 {
-	"host": "Enter your server ip or url",
-	"port": "Enter your server port",
-	"username": "Enter the AFKBot's username you want (Whatever doesn't matter)",
+	"host": "Just_server_Ratmir2.aternos.me",
+	"port": "38081",
+	"username": "Admin",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
